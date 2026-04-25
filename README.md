@@ -10,7 +10,7 @@ It includes:
 
 ## How to Run
 Run the file using:
-python filename.py
+python tic-tactoe-project.py
 
 ## Features
 - Number-based board (1–9)
